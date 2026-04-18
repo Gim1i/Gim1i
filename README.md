@@ -23,7 +23,8 @@ As playing/making games is a big hobby of mine you will likely see many reposito
 ![](https://img.shields.io/badge/Python-29B385?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/PHP-8229B3?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-1F1A63?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/Java-521D52?style=for-the-badge&logo=openjdk)
 ![](https://img.shields.io/badge/Powershell-0D5232?style=for-the-badge) ![](https://img.shields.io/badge/Kotlin-291FAB?style=for-the-badge&logo=kotlin)
-![](https://img.shields.io/badge/Lua-236E4B?style=for-the-badge&logo=lua) ![](https://img.shields.io/badge/CMD-7656c7?style=for-the-badge)
+![](https://img.shields.io/badge/Lua-236E4B?style=for-the-badge&logo=lua) ![](https://img.shields.io/badge/CMD-7656C7?style=for-the-badge)
+ ![](https://img.shields.io/badge/Ink-EDEDE4?style=for-the-badge)
 ## Api
 ![](https://img.shields.io/badge/WebGL-26BDBD?style=for-the-badge&logo=webgl)
 ## Databases
