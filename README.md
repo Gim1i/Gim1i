@@ -33,6 +33,5 @@ As playing/making games is a big hobby of mine you will likely see many reposito
 ![](https://img.shields.io/badge/Laravel-753030?style=for-the-badge&logo=laravel) ![](https://img.shields.io/badge/.Net-C28230?style=for-the-badge&logo=.net)
 ## Game engines
 ![](https://img.shields.io/badge/Unity-3D2AC7?style=for-the-badge&logo=unity)
-## Cloud services
 ## Design
 ![](https://img.shields.io/badge/Figma-185B8F?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/Diagrams.net-1C8A6E?style=for-the-badge&logo=Diagrams.net)
